@@ -8,5 +8,5 @@
 - common git commands
 
 ## Feedback
- - technical issues
+ - technical issuess
 
